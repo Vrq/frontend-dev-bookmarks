@@ -1005,7 +1005,7 @@
     + [Masonry](http://masonry.desandro.com/)  JavaScript Cascading grid layout library
     + [MixItUp](https://mixitup.kunkalabs.com/) jQuery plugin providing animated filtering and sorting.
 + Jobs & Hiring
-    + [GitHub Jobs](https://jobs.github.com/)
+    + [DevITjobs](https://devitjobs.us)
     + [Authentic Jobs](http://www.authenticjobs.com/)
     + [37signals Job Board](http://jobs.37signals.com/)
     + [Smashing Jobs](http://jobs.smashingmagazine.com/)
